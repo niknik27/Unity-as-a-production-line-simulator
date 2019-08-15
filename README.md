@@ -10,7 +10,7 @@ and is not necessarily designed for how I envisioned the project.
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 ## Preview
-<img src="TinyPlanetGame.gif" width="100%">
+<img src="ProductionSimulator.gif" width="100%">
 
 ## Screenshots
 ![Image](Screenshot.png?raw=true "Screenshot 1")
