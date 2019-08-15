@@ -13,9 +13,7 @@ and is not necessarily designed for how I envisioned the project.
 <img src="TinyPlanetGame.gif" width="100%">
 
 ## Screenshots
-![Image](gameScreenshot1.png?raw=true "Screenshot 1")
-
-![Image](gameScreenshot2.png?raw=true "Screenshot 2")
+![Image](Screenshot.png?raw=true "Screenshot 1")
 
 ## Tech/framework used
 <b>Built with</b>
