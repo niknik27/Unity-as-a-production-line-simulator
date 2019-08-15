@@ -1,0 +1,16 @@
+Door# 0			Window# 0
+Door Height: 98.24965			Window Height: 90.24965
+Door Width: 52.84294			Window Width: 46.84294
+Window Type: FullDoor# 1			Window# 1
+Door Height: 102.4294			Window Height: 47.21469
+Door Width: 50.45493			Window Width: 44.45493
+Window Type: HalfDoor# 2			Window# 2
+Door Height: 97.14067			Window Height: 44.57034
+Door Width: 50.32994			Window Width: 44.32994
+Window Type: HalfDoor# 3			Window# 3
+Door Height: 109.6808			Window Height: 23.4202
+Door Width: 55.2972			Window Width: 49.2972
+Window Type: QuarterDoor# 4			Window# 4
+Door Height: 97.76123			Window Height: 20.44031
+Door Width: 54.06657			Window Width: 48.06657
+Window Type: Quarter
